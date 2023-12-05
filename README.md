@@ -3,6 +3,10 @@
 This project has been prepared for [OPTİMA MÜHENDİSLİK](https://www.optima-engineering.com/tr) company.
 This project was developed with Vue 3.
 
+User information about the application
+User name: admin
+Password: 123456
+
 ## Project Setup
 
 ```sh
